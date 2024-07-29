@@ -1,0 +1,18 @@
+{
+  "name": "rachelkirkland/phpiggy",
+  "description": "A PHP application for tracking expenses",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Rachel Kirkland",
+      "email": "100070583+littleangelx@users.noreply.github.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
